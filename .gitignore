@@ -1,0 +1,13 @@
+logs/*
+!.gitkeep
+
+# artifacts
+node_modules/
+bower_components/
+
+# misc.
+tmp
+.DS_Store
+
+# user specifics
+.idea
